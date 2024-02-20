@@ -9,6 +9,6 @@ public class OussamaKhaled {
 
     public static double calculerMoyenne(int[] tableau) {
         int somme = calculerSomme(tableau);
-        return (double) somme / tableau.length ;
+        return (double) somme     /   tableau.length    ;
     }
 }
