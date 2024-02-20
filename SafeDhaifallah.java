@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SafeDhiafallah {
+public class SafeDhaifallah {
     public static void trierTableauCroissant(int[] tableau) {
         Arrays.sort(tableau);
     }
