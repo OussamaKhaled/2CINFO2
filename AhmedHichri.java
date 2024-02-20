@@ -8,5 +8,6 @@ public class AhmedHichri {
 
     public static boolean estPair(int nombre) {
         return nombre % 2 == 0;
+        
     }
 }
