@@ -1,0 +1,20 @@
+# Ignorer les fichiers compilés Java
+*.class
+
+# Ignorer les fichiers d'exécution Java
+*.jar
+
+# Ignorer les répertoires générés
+/target/
+/out/
+/bin/
+/build/
+
+# Ignorer les fichiers d'IDE
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
