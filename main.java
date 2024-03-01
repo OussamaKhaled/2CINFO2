@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class main {
+public class main  {
     public static void main(String[] args) {
         int[] tableau = {1, 2, 3, 4, 5};
         
