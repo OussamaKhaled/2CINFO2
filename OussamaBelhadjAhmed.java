@@ -12,5 +12,4 @@ public class OussamaBelhadjAhmed {
     public static String inverserChaine(String chaine) {
         return new StringBuilder(chaine).reverse().toString();
     }
-    //test conflict
 }
