@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class MehdiYounsi {
     public static int trouverMax(int[] tableau) {
-        int max = tableau[0];
+        int max = tableau[0] ;
         for (int i = 1; i < tableau.length; i++) {
             if (tableau[i] > max)
                 max = tableau[i];
